@@ -5,8 +5,8 @@ Progress tracker. Each day = one commit + one row filled in.
 | Day | Topic | Status | Commit |
 |---|---|---|---|
 | 1 | Structured Outputs (Gemini `response_schema` → Pydantic) | done — borderline | [3a5d7e5](https://github.com/Deveshsingh2004/rag-agent/commit/3a5d7e5) |
-| 2 | Raw Tool Calling | done — pass (weak on Q3: agent-as-actor threat model) | _pending push_ |
-| 3 | Pydantic AI (agent, tools, deps, TestModel) | pending | — |
+| 2 | Raw Tool Calling | done — pass (weak on Q3: agent-as-actor threat model) | [a0b7b7a](https://github.com/Deveshsingh2004/rag-agent/commit/a0b7b7a) |
+| 3 | Pydantic AI (agent, tools, deps, TestModel) | done — pass (Q2 soft on what TestModel actually does) | _pending push_ |
 | 4 | MOCK #1 + repo scaffolding polish | pending | — |
 | 5 | Embeddings + pgvector basics | pending | — |
 | 6 | HNSW indexing tuning | pending | — |
