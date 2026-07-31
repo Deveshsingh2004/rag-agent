@@ -19,8 +19,9 @@ from pydantic import BaseModel, Field, ValidationError
 
 load_dotenv()
 
-# MODEL = "gemini-2.5-pro"  #Best for Reasoning
-MODEL = "gemini-3.5-flash-lite"  #Best for Speed
+# MODEL = "gemini-3.1-pro-preview"  #For Complex Agentic AI Learning
+# MODEL = "gemini-3.5-flash"  #For Moderate Agentic Learning
+MODEL = "gemini-3.5-flash-lite"  #For Data Extraction & High-Volume Tasks
 
 
 
