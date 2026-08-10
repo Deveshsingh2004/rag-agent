@@ -9,8 +9,8 @@ Progress tracker. Each day = one commit + one row filled in.
 | 3 | Pydantic AI (agent, tools, deps, TestModel) | done — pass (Q2 soft on what TestModel actually does) | [b4d0674](https://github.com/Deveshsingh2004/rag-agent/commit/b4d0674) |
 | 4 | MOCK #1 + repo scaffolding polish | done — PASS | [8de1b0a](https://github.com/Deveshsingh2004/rag-agent/commit/8de1b0a) |
 | 5 | Embeddings + pgvector basics | done — pass (Q1 soft on when to pick metric) | [0fd313f](https://github.com/Deveshsingh2004/rag-agent/commit/0fd313fcc23af43ba03bbb5223a7f04779ce3621) |
-| 6 | HNSW indexing tuning | done — borderline (latency myth on Q1; m confused with ef on Q3) | _pending push_ |
-| 7 | Chunking strategies | pending | — |
+| 6 | HNSW indexing tuning | done — borderline (latency myth on Q1; m confused with ef on Q3) | [ee6a8ea](https://github.com/Deveshsingh2004/rag-agent/commit/ee6a8ea) |
+| 7 | Chunking strategies | done — pass (Q2 soft on late-chunking mechanism) | _pending push_ |
 | 8 | MOCK #2 + ingest real notes | pending | — |
 | 9 | ReAct loop from scratch | pending | — |
 | 10 | LangGraph port of ReAct | pending | — |
