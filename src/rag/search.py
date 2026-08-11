@@ -30,7 +30,8 @@ def main() -> None:
     for i, (title, content, dist) in enumerate(hits, 1):
         print(f"--- hit {i}  distance={dist:.4f} ---")
         print(f"title  : {title}")
-        print(f"content: {content}\n")
+        preview = content.replace("\n", " ")[:220]
+        print(f"content: {preview}...\n")
 
 
 if __name__ == "__main__":
