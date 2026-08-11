@@ -11,8 +11,8 @@ Progress tracker. Each day = one commit + one row filled in.
 | 5 | Embeddings + pgvector basics | done — pass (Q1 soft on when to pick metric) | [0fd313f](https://github.com/Deveshsingh2004/rag-agent/commit/0fd313fcc23af43ba03bbb5223a7f04779ce3621) |
 | 6 | HNSW indexing tuning | done — borderline (latency myth on Q1; m confused with ef on Q3) | [ee6a8ea](https://github.com/Deveshsingh2004/rag-agent/commit/ee6a8ea) |
 | 7 | Chunking strategies | done — pass (Q2 soft on late-chunking mechanism) | [9fd88bb](https://github.com/Deveshsingh2004/rag-agent/commit/9fd88bb) |
-| 8 | MOCK #2 + ingest real notes | done — BORDERLINE (Q5 fail: Celery vs sync) | _pending push_ |
-| 9 | ReAct loop from scratch | pending | — |
+| 8 | MOCK #2 + ingest real notes | done — BORDERLINE (Q5 fail: Celery vs sync) | [e722d6c](https://github.com/Deveshsingh2004/rag-agent/commit/e722d6c) |
+| 9 | ReAct loop from scratch | done — pass (Q1 soft; Q3 taught after gap) | _pending push_ |
 | 10 | LangGraph port of ReAct | pending | — |
 | 11 | Supervisor / routing pattern | pending | — |
 | 12 | MOCK #3 | pending | — |
