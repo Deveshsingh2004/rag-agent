@@ -19,8 +19,8 @@ Progress tracker. Each day = one commit + one row filled in.
 | 13 | FastAPI SSE streaming | done — pass | [db0a901](https://github.com/Deveshsingh2004/rag-agent/commit/db0a901) |
 | 14 | Context window management | done — pass (Q3 incomplete: only covered LastN test) | [6359dae](https://github.com/Deveshsingh2004/rag-agent/commit/6359daeaea83e7afd2002bf7042f7fbbfff0ef39) |
 | 15 | Build MCP server | done — pass | [1d33a3b](https://github.com/Deveshsingh2004/rag-agent/commit/1d33a3b) |
-| 16 | Consume MCP from Pydantic AI | done — pass (Q3 taught: amortize discovery) | _pending push_ |
-| 17 | MOCK #4 + Redis semantic cache | pending | — |
+| 16 | Consume MCP from Pydantic AI | done — pass (Q3 taught: amortize discovery) | [a7a22ba](https://github.com/Deveshsingh2004/rag-agent/commit/a7a22ba) |
+| 17 | MOCK #4 + Redis semantic cache | done — PASS | _pending push_ |
 | 18 | Cross-encoder reranking | pending | — |
 | 19 | LLM-as-Judge evals | pending | — |
 | 20 | Observability (Langfuse) | pending | — |
