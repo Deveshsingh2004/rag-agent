@@ -15,8 +15,8 @@ Progress tracker. Each day = one commit + one row filled in.
 | 9 | ReAct loop from scratch | done — pass (Q1 soft; Q3 taught after gap) | [735bc3f](https://github.com/Deveshsingh2004/rag-agent/commit/735bc3f) |
 | 10 | LangGraph port of ReAct | done — pass (Q2 soft: checkpointer ≠ long-term user prefs alone) | [b5cb4a1](https://github.com/Deveshsingh2004/rag-agent/commit/b5cb4a1) |
 | 11 | Supervisor / routing pattern | done — pass | [960403b](https://github.com/Deveshsingh2004/rag-agent/commit/960403b) |
-| 12 | MOCK #3 | done — PASS (Q2 soft on when to prefer native tools) | _pending push_ |
-| 13 | FastAPI SSE streaming | pending | — |
+| 12 | MOCK #3 | done — PASS (Q2 soft on when to prefer native tools) | [df6db62](https://github.com/Deveshsingh2004/rag-agent/commit/df6db62) |
+| 13 | FastAPI SSE streaming | done — pass | _pending push_ |
 | 14 | Context window management | pending | — |
 | 15 | Build MCP server | pending | — |
 | 16 | Consume MCP from Pydantic AI | pending | — |
