@@ -21,7 +21,7 @@ Progress tracker. Each day = one commit + one row filled in.
 | 15 | Build MCP server | done — pass | [1d33a3b](https://github.com/Deveshsingh2004/rag-agent/commit/1d33a3b) |
 | 16 | Consume MCP from Pydantic AI | done — pass (Q3 taught: amortize discovery) | [a7a22ba](https://github.com/Deveshsingh2004/rag-agent/commit/a7a22ba) |
 | 17 | MOCK #4 + Redis semantic cache | done — PASS | _pending push_ |
-| 18 | Cross-encoder reranking | pending | — |
+| 18 | Cross-encoder reranking | done — borderline drill; run proved Celery demoted | _pending push_ |
 | 19 | LLM-as-Judge evals | pending | — |
 | 20 | Observability (Langfuse) | pending | — |
 | 21 | Deploy + FINAL MOCK | pending | — |
