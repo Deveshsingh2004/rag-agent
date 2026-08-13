@@ -66,7 +66,7 @@ def search_notes(ctx: RunContext[StreamDeps], query: str) -> str:
     return ctx.deps.search(query)
 
 
-app = FastAPI(title="rag-agent", version="0.13.0")
+app = FastAPI(title="rag-agent", version="0.21.0")
 
 
 def _sse(payload: dict[str, Any]) -> str:
